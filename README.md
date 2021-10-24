@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @awesoming
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...(no way,hahaha)
 
